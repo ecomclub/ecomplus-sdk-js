@@ -1,3 +1,6 @@
+# DEPRECATION WARNING
+Deprecated in favor of [Client](https://github.com/ecomclub/ecomplus-client)
+
 # ecomplus-sdk-js
 
 [![npm version](https://img.shields.io/npm/v/ecomplus-sdk.svg)](https://www.npmjs.org/ecomplus-sdk)
